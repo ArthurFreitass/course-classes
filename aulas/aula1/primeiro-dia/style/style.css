@@ -1,0 +1,29 @@
+body {
+    font-family: monospace;
+}
+
+.header h1 {
+    text-align: center;
+    color: rgb(99, 97, 97);
+}
+
+div {
+    margin-top: 100px;
+    width: 500px;
+    height: 100px;
+    margin: auto;
+    background-color: rgb(127, 184, 184);
+    padding: 15px;
+}
+
+div button {
+    font-family: monospace;
+    background-color: rgb(156, 67, 156);
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: purple;
+    transition: background 1s;
+}
