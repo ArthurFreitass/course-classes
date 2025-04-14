@@ -1,1 +1,1 @@
-# Diretório para eminhas aulas no curso
+# Diretório para minhas aulas no curso
