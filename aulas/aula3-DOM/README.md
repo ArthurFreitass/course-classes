@@ -1,1 +1,1 @@
-# Exercício sobre manipulaÃ§Ã£o do DOM com caixas
+# Exercício sobre manipulação do DOM com caixas
